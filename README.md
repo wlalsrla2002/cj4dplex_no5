@@ -11,7 +11,8 @@
   - `kr_format.csv` 포맷별 좌석점유율 배수 요약 (KOBIS)
   - `kr_buckets.csv` 장르 묶음별 4D·ScreenX 점유율 배수 (KOBIS)
   - `kr_films.csv` 작품별 점유율 배수 108편 (KOBIS)
-  - `kr_tests.csv` 통계 검정 결과
+  - `kr_tests.csv` 통계 검정 결과 (보정 후 유의 여부 포함)
+  - `kr_sensitivity.csv` 좌석 추정 민감도 (±10·20%, 부트스트랩)
   - `global_share.csv` 전 세계 Top50 장르 비중 (Box Office Mojo)
   - `market_year.csv` 해외 12개 시장 연도별 장르 비중
 
